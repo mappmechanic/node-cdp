@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Demos>
+<Apps>
+    
+    <App>
+        <AppLogo>appicon3@2x.png</AppLogo>
+        <AppName>Preventive Care</AppName>
+        <AppDescription>Your apps description is your sales page and, as such, can be written a little like ad copy or homepage website text. In order to generate maximum downloads of your app, ensure that it is clear, succinct and appealing to your target audience. After your icon and name help you stand out from other apps, its the app description text that will do the rest of the legwork in terms of provoking curiosity in your users, and ultimately selling your app to them (even if its free to download).
+        </AppDescription>
+        <AppiOSimages>
+            <image>image1.png</image>
+            <image>image2.png</image>
+            <image>image3.png</image>
+            <image>image4.png</image>
+            <image>image5.png</image>
+            <image>image6.png</image>
+        </AppiOSimages>
+        <AppAndroidimages>
+            <image>image6.png</image>
+            <image>image5.png</image>
+            <image>image4.png</image>
+            <image>image3.png</image>
+            <image>image2.png</image>
+            <image>image1.png</image>
+        </AppAndroidimages>
+    </App>
+
+    <App>
+        <AppLogo>appicon4@2x.png</AppLogo>
+        <AppName>RemotePatient Monitoring</AppName>
+        <AppDescription>In Google Play, be aware that your description affects app store optimization (ASO; your app’s search ranking). Therefore you should look to optimize it for relevant keywords and search terms. In iOS, your description will not impact ASO, so you should simply focus on gearing your description toward the user, rather than the search algorithms.
+        </AppDescription>
+        <AppiOSimages>
+            <image>image6.png</image>
+            <image>image5.png</image>
+            <image>image4.png</image>
+            <image>image3.png</image>
+            <image>image2.png</image>
+            <image>image1.png</image>
+        </AppiOSimages>
+        <AppAndroidimages>
+            <image>image1.png</image>
+            <image>image2.png</image>
+            <image>image3.png</image>
+            <image>image4.png</image>
+            <image>image5.png</image>
+            <image>image6.png</image>
+        </AppAndroidimages>
+    </App>
+    
+    <App>
+        <AppLogo>appicon2@2x.png</AppLogo>
+        <AppName>Patient Portal</AppName>
+        <AppDescription>An incredible icon, which users fall in love with, will be one of your app’s most important elements and its design should not be taken lightly. Additionally, if you manage to achieve many high ratings and positive user reviews, you’ll be laughing. Remember: your potential users will digest all of these factors in just a few seconds in order to form their first impressions of your app. So make sure they all work together, towards your goals of more downloads and more engaged users.
+        </AppDescription>
+        <AppiOSimages>
+            <image>image1.png</image>
+            <image>image2.png</image>
+            <image>image3.png</image>
+            <image>image4.png</image>
+            <image>image5.png</image>
+            <image>image6.png</image>
+        </AppiOSimages>
+        <AppAndroidimages>
+            <image>image6.png</image>
+            <image>image5.png</image>
+            <image>image4.png</image>
+            <image>image3.png</image>
+            <image>image2.png</image>
+            <image>image1.png</image>
+        </AppAndroidimages>
+    </App>
+    
+    <App>
+        <AppLogo>app_icon@2x.png</AppLogo>
+        <AppName>TOG</AppName>
+        <AppDescription>It’s important to communicate your app to potential users in the best possible light, but keep it quick, to-the-point and easy to understand. There is no need to be over the top in your description about features and functionalities that wont really interest your users; no matter how great you think a feature is, always think of your users’ perspective. They mostly want to know about the solid, smooth user experience and their benefits. Of course, always be totally factual about your apps capabilities, so as not to overpromise your users:
+        </AppDescription>
+        <AppiOSimages>
+            <image>image6.png</image>
+            <image>image5.png</image>
+            <image>image4.png</image>
+            <image>image3.png</image>
+            <image>image2.png</image>
+            <image>image1.png</image>
+        </AppiOSimages>
+        <AppAndroidimages>
+            <image>image1.png</image>
+            <image>image2.png</image>
+            <image>image3.png</image>
+            <image>image4.png</image>
+            <image>image5.png</image>
+            <image>image6.png</image>
+        </AppAndroidimages>
+    </App>
+    
+</Apps>
+</Demos>

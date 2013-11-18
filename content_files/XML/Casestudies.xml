@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<casestudies>
+    
+    <casestudy>
+    <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>HealthCare Solution : Health on the go</header>
+    <shortDesc>An interactive solution bringining a plethora of healthcare services on mobile platforms for end clients...</shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>Native Apps</header>
+        <shortDesc>Developed multiple native apps offering wide range of services across domais like ATM Locator, MobiConnect,News and Event Apps Ground...
+        </shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>Portfolio</header>
+        <shortDesc>An interactive solution bringining a plethora of healthcare services on mobile platforms for end clients...</shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>Remote Health Management</header>
+        <shortDesc>An interactive solution bringining a plethora of healthcare services on mobile platforms for end clients...</shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>App Store</header>
+        <shortDesc>An secure way of App distribuition for an enterprise,can be white labeled for customers or in-house use...</shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>iPhone Trading App</header>
+        <shortDesc>A complete solution that allows user to trade on global markets and monitor positions on the move.
+        </shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>Big Data analytics</header>
+        <shortDesc>An interactive solution bringining a plethora of healthcare services on mobile platforms for end clients...</shortDesc>
+    </casestudy>
+    
+    <casestudy>
+        <thumbnailImage>presentation@2x.png</thumbnailImage>
+        <header>Hadoop</header>
+        <shortDesc>An interactive solution bringining a plethora of healthcare services on mobile platforms for end clients...</shortDesc>
+    </casestudy>
+    
+</casestudies>

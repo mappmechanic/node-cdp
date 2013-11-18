@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<appLogo imageUrl="logo@2x.png"></appLogo>
+    <appBackground imageUrl="appbackground@2x.png"></appBackground>
+    <appToolBar background_color="#34A8C4"></appToolBar>
+    <appLaunchAnimation animation_style="slide_left"></appLaunchAnimation>
+    <companyLogo imageUrl="genpact_logo@2x.png"></companyLogo>
+    <home>
+        <menuItem menuTitle="Presentations" imageUrl="presentation_icon@2x.png" text_color="#FFFFFF"></menuItem>
+        <menuItem menuTitle="Demos" imageUrl="demo_icon@2x.png" text_color="#FFFFFF"></menuItem>
+        <menuItem menuTitle="Case Studies" imageUrl="casestudies_icon@2x.png" text_color="#FFFFFF"></menuItem>
+    </home>
+    <presentation>
+        <presentationItem itemtype="headerBar" background_color="sdg"></presentationItem>
+    </presentation>
+    <demo>
+        <appList background_color="sdg" selection_color="sdg" text_color="sdg"></appList>
+        <appDetail text_color="sdgdsg"></appDetail>
+    </demo>
+</metadata>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Presentations>
+	<Presentation>
+        <PresentationName>Partnerships</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Client 1 Proposal</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>ABC</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>6-03-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>CRM app Info</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>22-03-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Mobility Offerings</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Client 2 Proposal</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships2</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Sample Presentation</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships3</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Offerings</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Private</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships4</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>ABC</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships5</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>ABC</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships6</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>ABC</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships7</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships8</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships9</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+
+    
+    
+    <Presentation>
+        <PresentationName>Partnerships10</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships11</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships12</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships13</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships14</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships15</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships16</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships17</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Partnerships18</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Genpact</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+ 
+
+    
+    
+    
+    
+    <Presentation>
+        <PresentationName>Mobility Offerings 2</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Public</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout3</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>CRM app info 2</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Public</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout1</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Client 1</PresentationName>
+        <PresentationThumbnail>presentation@2x.png</PresentationThumbnail>
+        <GroupName>Public</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+    <Presentation>
+        <PresentationName>Sample 2</PresentationName>
+        <PresentationThumbnail>presentation2@2x.png</PresentationThumbnail>
+        <GroupName>Public</GroupName>
+        <Author>XYZ</Author>
+        <DescriptionText>The idiosyncrasy of this town is smoke. It rolls sullenly in slow folds from the great chimneys of the iron-foundries, and settles down in black, slimy pools on the muddy streets.</DescriptionText>
+        <CreatedDate>20-09-2012</CreatedDate>
+        <layout>Layout2</layout>
+    </Presentation>
+</Presentations>
