@@ -12,8 +12,10 @@ var express = require('express');
 var moment = require('moment');
 
 var app = express();
+var port = process.env.PORT || 5000;
 
-app.listen(5000);
+
+app.listen(port);
 
 // GET All Public CSS, Images & Javascript Files
 app.use('/static',express.static(__dirname + '/public'));
