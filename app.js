@@ -25,7 +25,6 @@ app.use(express.logger());
 // GET /content_files/update-packages/metadata.zip
 app.use('/content',express.static(__dirname + '/content_files'));
 
-console.log(__dirname);
 
 app.get('/api', function(req, res){
   var body = 'gPortfolio API Documentation';
